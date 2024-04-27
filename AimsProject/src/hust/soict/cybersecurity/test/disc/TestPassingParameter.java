@@ -1,3 +1,7 @@
+package hust.soict.cybersecurity.test.disc;
+
+import hust.soict.cybersecurity.aims.disc.DigitalVideoDisc;
+
 public class TestPassingParameter {
    public static void main(String[] args) {
       DigitalVideoDisc jungleDVD = new DigitalVideoDisc("Jungle");

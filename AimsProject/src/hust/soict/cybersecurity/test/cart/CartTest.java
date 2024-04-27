@@ -1,3 +1,8 @@
+package hust.soict.cybersecurity.test.cart;
+
+import hust.soict.cybersecurity.aims.cart.Cart;
+import hust.soict.cybersecurity.aims.disc.DigitalVideoDisc;
+
 public class CartTest {
    public static void main(String[] args){
       Cart cart = new Cart();
