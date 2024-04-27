@@ -4,7 +4,7 @@ import java.nio.file.Paths;
 
 public class GarbageCreator {
    public static void main(String[] args) throws IOException {
-		String filePath = "Documents/lampham.exe"; // "C:\\Users\\User\\Desktop\\test.txt
+		String filePath = "Documents/lampham.exe"; 
 		byte[] inputBytes = { 0 };
 		long startTime, endTime;
 		
