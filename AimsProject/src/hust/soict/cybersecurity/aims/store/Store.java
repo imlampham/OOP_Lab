@@ -1,3 +1,6 @@
+package hust.soict.cybersecurity.aims.store;
+
+import hust.soict.cybersecurity.aims.disc.DigitalVideoDisc;
 import java.util.ArrayList;
 public class Store {
    private ArrayList<DigitalVideoDisc> itemsInStore;
