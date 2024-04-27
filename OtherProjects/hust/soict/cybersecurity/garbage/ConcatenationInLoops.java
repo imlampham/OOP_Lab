@@ -1,3 +1,4 @@
+package hust.soict.cybersecurity.garbage;
 import java.util.Random;
 public class ConcatenationInLoops {
    public static void main(String[] args){
